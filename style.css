@@ -184,7 +184,7 @@ p.margen{
     align-items:flex-end;
 }
 .Col2{
-    margin-top: 30px;
+    /* margin-top: 30px; */
     display: flex;
 }
 .margen2{
